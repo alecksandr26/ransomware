@@ -194,7 +194,6 @@ int run_after_encrypt(void)
 
 int main(void)
 {
-
 #ifdef NDEBUG
 	/* Hide the cosole window window */
 	ShowWindow(GetConsoleWindow(), SW_HIDE);
